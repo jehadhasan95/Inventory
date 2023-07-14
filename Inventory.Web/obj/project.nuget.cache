@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DOObPTbdNW8nVCF3EOIRnZ7/DnYGemqzKvwFfU6oiTrO+bsBzQmvpkxG10hIlJWBNS2MnrwOABa7nHlCl/KTPg==",
+  "dgSpecHash": "yhDmwNPwa5Ae1WMgPlAw0AvrImf5yEP+8MwoyXPvfy/vEwlwhWksO5jOYZOwA0WEm+sKVEUJB5nK9oFVM+xS9w==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Inventory\\Inventory\\Inventory.Web\\Inventory.Web.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Elite-Gadget\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\Elite-Gadget\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\Elite-Gadget\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\Elite-Gadget\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\InventoryBackup\\Inventory\\Inventory.Web\\Inventory.Web.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

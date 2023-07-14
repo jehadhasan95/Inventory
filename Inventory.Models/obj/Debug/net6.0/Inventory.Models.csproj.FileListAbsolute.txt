@@ -1,0 +1,12 @@
+D:\Inventory Backup\Inventory\Inventory.Models\bin\Debug\net6.0\Inventory.Models.deps.json
+D:\Inventory Backup\Inventory\Inventory.Models\bin\Debug\net6.0\Inventory.Models.dll
+D:\Inventory Backup\Inventory\Inventory.Models\bin\Debug\net6.0\Inventory.Models.pdb
+D:\Inventory Backup\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.csproj.AssemblyReference.cache
+D:\Inventory Backup\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inventory Backup\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.AssemblyInfoInputs.cache
+D:\Inventory Backup\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.AssemblyInfo.cs
+D:\Inventory Backup\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.csproj.CoreCompileInputs.cache
+D:\Inventory Backup\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.dll
+D:\Inventory Backup\Inventory\Inventory.Models\obj\Debug\net6.0\refint\Inventory.Models.dll
+D:\Inventory Backup\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.pdb
+D:\Inventory Backup\Inventory\Inventory.Models\obj\Debug\net6.0\ref\Inventory.Models.dll
