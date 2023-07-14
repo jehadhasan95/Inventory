@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Inventory\\Inventory\\Inventory.Web\\Inventory.Web.csproj",
-      "projectName": "Inventory.Web",
-      "projectPath": "D:\\Projects\\Inventory\\Inventory\\Inventory.Web\\Inventory.Web.csproj",
+      "projectUniqueName": "D:\\Projects\\Inventory\\Inventory\\Inventory.Services\\Inventory.Services.csproj",
+      "projectName": "Inventory.Services",
+      "projectPath": "D:\\Projects\\Inventory\\Inventory\\Inventory.Services\\Inventory.Services.csproj",
       "packagesPath": "C:\\Users\\Elite-Gadget\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Inventory\\Inventory\\Inventory.Web\\obj\\",
+      "outputPath": "D:\\Projects\\Inventory\\Inventory\\Inventory.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Elite-Gadget\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,10 +62,6 @@
             "version": "[6.0.20, 6.0.20]"
           },
           {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.20, 6.0.20]"
-          },
-          {
             "name": "Microsoft.NETCore.App.Ref",
             "version": "[6.0.20, 6.0.20]"
           },
@@ -76,9 +71,6 @@
           }
         ],
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
