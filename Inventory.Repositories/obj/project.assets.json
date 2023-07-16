@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Elite-Gadget\\.nuget\\packages\\": {}
+    "C:\\Users\\Fast Sign (Sukumar)\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Inventory\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj",
+      "projectUniqueName": "D:\\Project\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj",
       "projectName": "Inventory.Repositories",
-      "projectPath": "D:\\Projects\\Inventory\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj",
-      "packagesPath": "C:\\Users\\Elite-Gadget\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Inventory\\Inventory\\Inventory.Repositories\\obj\\",
+      "projectPath": "D:\\Project\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj",
+      "packagesPath": "C:\\Users\\Fast Sign (Sukumar)\\.nuget\\packages\\",
+      "outputPath": "D:\\Project\\Inventory\\Inventory.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Elite-Gadget\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fast Sign (Sukumar)\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,20 +56,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.20, 6.0.20]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.20, 6.0.20]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.20, 6.0.20]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -78,5 +64,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Project\\Inventory\\Inventory.Repositories\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

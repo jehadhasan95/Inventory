@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "qGhZe7w7lLTaf/txtOH8rf//g+eVgVvIBV8SyBf62ytjCi+ea3PcDz4YLh1HGZLt7btlk/VVZqy29Y6RcQB7Cw==",
+  "dgSpecHash": "8JeF6OPmMq3HnZuwlbbgCkMl/bbKLWuho4D+rvqq+DaM61C7RMAxrNGpQgB6w81ctSkawrTxpxfBilkdaJPpFQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Inventory\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Elite-Gadget\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\Elite-Gadget\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\Elite-Gadget\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
-  ],
-  "logs": []
+  "projectFilePath": "D:\\Project\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Project\\Inventory\\Inventory.Utility\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
