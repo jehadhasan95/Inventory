@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\JIHAD\\.nuget\\packages\\": {}
+    "C:\\Users\\Fast Sign (Sukumar)\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\InventoryBackup\\Inventory\\Inventory.Web\\Inventory.Web.csproj",
+      "projectUniqueName": "D:\\Project\\Inventory\\Inventory.Web\\Inventory.Web.csproj",
       "projectName": "Inventory.Web",
-      "projectPath": "D:\\InventoryBackup\\Inventory\\Inventory.Web\\Inventory.Web.csproj",
-      "packagesPath": "C:\\Users\\JIHAD\\.nuget\\packages\\",
-      "outputPath": "D:\\InventoryBackup\\Inventory\\Inventory.Web\\obj\\",
+      "projectPath": "D:\\Project\\Inventory\\Inventory.Web\\Inventory.Web.csproj",
+      "packagesPath": "C:\\Users\\Fast Sign (Sukumar)\\.nuget\\packages\\",
+      "outputPath": "D:\\Project\\Inventory\\Inventory.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\JIHAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fast Sign (Sukumar)\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

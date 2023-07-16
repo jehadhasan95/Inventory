@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yhDmwNPwa5Ae1WMgPlAw0AvrImf5yEP+8MwoyXPvfy/vEwlwhWksO5jOYZOwA0WEm+sKVEUJB5nK9oFVM+xS9w==",
+  "dgSpecHash": "bl4G+dvSAVKQtB/CmXPlq3JZZf6FzqmWbt/Cmj1RgW6qk5XonjCBhLNctacalcIAOcF1LUXrmJpA4slLKQ2nsA==",
   "success": true,
-  "projectFilePath": "D:\\InventoryBackup\\Inventory\\Inventory.Web\\Inventory.Web.csproj",
+  "projectFilePath": "D:\\Project\\Inventory\\Inventory.Web\\Inventory.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

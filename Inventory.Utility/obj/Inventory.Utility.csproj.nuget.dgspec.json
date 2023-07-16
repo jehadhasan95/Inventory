@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\InventoryBackup\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj": {}
+    "D:\\Project\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj": {}
   },
   "projects": {
-    "D:\\InventoryBackup\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj": {
+    "D:\\Project\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\InventoryBackup\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj",
+        "projectUniqueName": "D:\\Project\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj",
         "projectName": "Inventory.Utility",
-        "projectPath": "D:\\InventoryBackup\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj",
-        "packagesPath": "C:\\Users\\JIHAD\\.nuget\\packages\\",
-        "outputPath": "D:\\InventoryBackup\\Inventory\\Inventory.Utility\\obj\\",
+        "projectPath": "D:\\Project\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj",
+        "packagesPath": "C:\\Users\\Fast Sign (Sukumar)\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\Inventory\\Inventory.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JIHAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fast Sign (Sukumar)\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

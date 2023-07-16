@@ -819,19 +819,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JIHAD\\.nuget\\packages\\": {}
+    "C:\\Users\\Fast Sign (Sukumar)\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\InventoryBackup\\Inventory\\Inventory.Models\\Inventory.Models.csproj",
+      "projectUniqueName": "D:\\Project\\Inventory\\Inventory.Models\\Inventory.Models.csproj",
       "projectName": "Inventory.Models",
-      "projectPath": "D:\\InventoryBackup\\Inventory\\Inventory.Models\\Inventory.Models.csproj",
-      "packagesPath": "C:\\Users\\JIHAD\\.nuget\\packages\\",
-      "outputPath": "D:\\InventoryBackup\\Inventory\\Inventory.Models\\obj\\",
+      "projectPath": "D:\\Project\\Inventory\\Inventory.Models\\Inventory.Models.csproj",
+      "packagesPath": "C:\\Users\\Fast Sign (Sukumar)\\.nuget\\packages\\",
+      "outputPath": "D:\\Project\\Inventory\\Inventory.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\JIHAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fast Sign (Sukumar)\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -881,5 +881,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Project\\Inventory\\Inventory.Models\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
