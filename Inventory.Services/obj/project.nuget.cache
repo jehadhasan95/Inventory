@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "knK/xGNn/0h5PpfuslNBTSAWDTcE7UvSMhiUjaGC9rmrCVOG9gjb3be84f34LlQUj+IKV6OGnFrbNugmQaV3Kg==",
+  "dgSpecHash": "yAm3sv6WuL2YsUVY3hiemu8ODCdgu7Qm7O5IWb8oITfkkaHSt8BsMR22igwplFn35AHG6c31MtO1cYgTRifpeQ==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Inventory\\Inventory.Services\\Inventory.Services.csproj",
+  "projectFilePath": "G:\\Projet. MIU\\Inventory\\Inventory.Services\\Inventory.Services.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\Project\\Inventory\\Inventory.Services\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
