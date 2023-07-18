@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\Inventory\\Inventory.Services\\Inventory.Services.csproj": {}
+    "D:\\Projects\\Inventory1\\Inventory\\Inventory.Services\\Inventory.Services.csproj": {}
   },
   "projects": {
-    "D:\\Project\\Inventory\\Inventory.Services\\Inventory.Services.csproj": {
+    "D:\\Projects\\Inventory1\\Inventory\\Inventory.Services\\Inventory.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Inventory\\Inventory.Services\\Inventory.Services.csproj",
+        "projectUniqueName": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Services\\Inventory.Services.csproj",
         "projectName": "Inventory.Services",
-        "projectPath": "D:\\Project\\Inventory\\Inventory.Services\\Inventory.Services.csproj",
-        "packagesPath": "C:\\Users\\Fast Sign (Sukumar)\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Inventory\\Inventory.Services\\obj\\",
+        "projectPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Services\\Inventory.Services.csproj",
+        "packagesPath": "C:\\Users\\Elite-Gadget\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Fast Sign (Sukumar)\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elite-Gadget\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,6 +50,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

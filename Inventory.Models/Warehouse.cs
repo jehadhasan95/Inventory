@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Inventory.Models
 {
-    internal class Warehouse
+    public class Warehouse
     {
         public int WarehouseId { get; set; }
         [Required]
