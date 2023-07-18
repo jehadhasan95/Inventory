@@ -6,13 +6,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Inventory.Models
-{
-    public class BillType
-    {
-
-        public int BillYypeId { get; set; }
-        [Required]
-        public string BillTypeName { get; set; }
+{ 
+    public class PaymentType
+    { 
+        public int paymentTypeId { get; set; }
+        [Required  ]
+        public string paymentTypeName { get; set; }
         public string Description { get; set; }
 
     }
