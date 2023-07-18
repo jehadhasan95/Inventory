@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7DoXIPRsmCKh5i20ilITfwTmetkax3gHlYNZeoZ9Wv+ep1gs0k0/rAQqhAWPcowRBuW3ytSkS/pSulcYjSK6XA==",
+  "dgSpecHash": "iWLSKySMMi/qOg/vPj1+oLTGHWCJ41S56SyhnSZx9zw2acEwYjwwS+03oKTnWA0ehJoxHgrlIkiKO3KTrOZYyw==",
   "success": true,
-  "projectFilePath": "G:\\Projet. MIU\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elite-Gadget\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Elite-Gadget\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Elite-Gadget\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
