@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj": {}
+    "D:\\Projects\\Inventory1\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj": {}
   },
   "projects": {
-    "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
+    "D:\\Projects\\Inventory1\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Models\\Inventory.Models.csproj",
+        "projectUniqueName": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Models\\Inventory.Models.csproj",
         "projectName": "Inventory.Models",
-        "projectPath": "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Models\\Inventory.Models.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Models\\obj\\",
+        "projectPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Models\\Inventory.Models.csproj",
+        "packagesPath": "C:\\Users\\Elite-Gadget\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elite-Gadget\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,6 +56,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -65,17 +79,17 @@
         }
       }
     },
-    "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj": {
+    "D:\\Projects\\Inventory1\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj",
-        "projectName": "Inventory.Utility",
-        "projectPath": "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Utility\\obj\\",
+        "projectUniqueName": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj",
+        "projectName": "Inventory.Repositories",
+        "projectPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Elite-Gadget\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elite-Gadget\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,8 +103,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
-                "projectPath": "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Models\\Inventory.Models.csproj"
+              "D:\\Projects\\Inventory1\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
+                "projectPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Models\\Inventory.Models.csproj"
               }
             }
           }
@@ -107,7 +121,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.13, )"
+              "version": "[6.0.20, )"
             }
           },
           "imports": [
@@ -121,7 +135,118 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            }
+          ],
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Inventory1\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj",
+        "projectName": "Inventory.Utility",
+        "projectPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Utility\\Inventory.Utility.csproj",
+        "packagesPath": "C:\\Users\\Elite-Gadget\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Elite-Gadget\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\Inventory1\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
+                "projectPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Models\\Inventory.Models.csproj"
+              },
+              "D:\\Projects\\Inventory1\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj": {
+                "projectPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

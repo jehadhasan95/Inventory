@@ -21,7 +21,7 @@ namespace Inventory.Models
         public string Phone { get; set; }
         public string Email { get; set; }
         [Display(Name ="Contant Person")]
-
+        public string ContactPerson { get; set; }
 
     }
 }
