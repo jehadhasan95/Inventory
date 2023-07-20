@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Inventory1\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {}
+    "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Inventory1\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
+    "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Models\\Inventory.Models.csproj",
+        "projectUniqueName": "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Models\\Inventory.Models.csproj",
         "projectName": "Inventory.Models",
-        "projectPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Models\\Inventory.Models.csproj",
-        "packagesPath": "C:\\Users\\Elite-Gadget\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Models\\obj\\",
+        "projectPath": "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Models\\Inventory.Models.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Elite-Gadget\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,20 +56,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.20, 6.0.20]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.20, 6.0.20]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.20, 6.0.20]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
