@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Elite-Gadget\\.nuget\\packages\\": {}
+    "C:\\Users\\pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Services\\Inventory.Services.csproj",
+      "projectUniqueName": "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Services\\Inventory.Services.csproj",
       "projectName": "Inventory.Services",
-      "projectPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Services\\Inventory.Services.csproj",
-      "packagesPath": "C:\\Users\\Elite-Gadget\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Services\\obj\\",
+      "projectPath": "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Services\\Inventory.Services.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "G:\\MIU Final Project\\Projet. MIU\\Inventory\\Inventory.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Elite-Gadget\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,20 +56,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.20, 6.0.20]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.20, 6.0.20]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.20, 6.0.20]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
