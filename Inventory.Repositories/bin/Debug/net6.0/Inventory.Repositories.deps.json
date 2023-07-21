@@ -9,6 +9,7 @@
       "Inventory.Repositories/1.0.0": {
         "dependencies": {
           "Inventory.Models": "1.0.0",
+          "Inventory.ViewModel": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.20"
         },
         "runtime": {
@@ -237,6 +238,14 @@
         "runtime": {
           "Inventory.Models.dll": {}
         }
+      },
+      "Inventory.ViewModel/1.0.0": {
+        "dependencies": {
+          "Inventory.Models": "1.0.0"
+        },
+        "runtime": {
+          "Inventory.ViewModel.dll": {}
+        }
       }
     }
   },
@@ -394,6 +403,11 @@
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
     "Inventory.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inventory.ViewModel/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

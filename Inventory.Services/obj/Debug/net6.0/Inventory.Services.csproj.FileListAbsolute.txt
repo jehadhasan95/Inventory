@@ -22,3 +22,15 @@ D:\Projects\Inventory1\Inventory\Inventory.Services\obj\Debug\net6.0\Inventory.S
 D:\Projects\Inventory1\Inventory\Inventory.Services\obj\Debug\net6.0\refint\Inventory.Services.dll
 D:\Projects\Inventory1\Inventory\Inventory.Services\obj\Debug\net6.0\Inventory.Services.pdb
 D:\Projects\Inventory1\Inventory\Inventory.Services\obj\Debug\net6.0\ref\Inventory.Services.dll
+D:\Inventory\Inventory.Services\bin\Debug\net6.0\Inventory.Services.deps.json
+D:\Inventory\Inventory.Services\bin\Debug\net6.0\Inventory.Services.dll
+D:\Inventory\Inventory.Services\bin\Debug\net6.0\Inventory.Services.pdb
+D:\Inventory\Inventory.Services\obj\Debug\net6.0\Inventory.Services.csproj.AssemblyReference.cache
+D:\Inventory\Inventory.Services\obj\Debug\net6.0\Inventory.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inventory\Inventory.Services\obj\Debug\net6.0\Inventory.Services.AssemblyInfoInputs.cache
+D:\Inventory\Inventory.Services\obj\Debug\net6.0\Inventory.Services.AssemblyInfo.cs
+D:\Inventory\Inventory.Services\obj\Debug\net6.0\Inventory.Services.csproj.CoreCompileInputs.cache
+D:\Inventory\Inventory.Services\obj\Debug\net6.0\Inventory.Services.dll
+D:\Inventory\Inventory.Services\obj\Debug\net6.0\refint\Inventory.Services.dll
+D:\Inventory\Inventory.Services\obj\Debug\net6.0\Inventory.Services.pdb
+D:\Inventory\Inventory.Services\obj\Debug\net6.0\ref\Inventory.Services.dll

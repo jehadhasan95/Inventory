@@ -374,6 +374,19 @@
         "runtime": {
           "bin/placeholder/Inventory.Models.dll": {}
         }
+      },
+      "Inventory.ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Inventory.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Inventory.ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Inventory.ViewModel.dll": {}
+        }
       }
     }
   },
@@ -829,12 +842,17 @@
       "type": "project",
       "path": "../Inventory.Models/Inventory.Models.csproj",
       "msbuildProject": "../Inventory.Models/Inventory.Models.csproj"
+    },
+    "Inventory.ViewModel/1.0.0": {
+      "type": "project",
+      "path": "../Inventory.ViewModel/Inventory.ViewModel.csproj",
+      "msbuildProject": "../Inventory.ViewModel/Inventory.ViewModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj",
       "Inventory.Models >= 1.0.0",
+      "Inventory.ViewModel >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.20"
     ]
   },
@@ -908,16 +926,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

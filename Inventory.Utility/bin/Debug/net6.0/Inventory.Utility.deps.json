@@ -313,10 +313,19 @@
       "Inventory.Repositories/1.0.0": {
         "dependencies": {
           "Inventory.Models": "1.0.0",
+          "Inventory.ViewModel": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.20"
         },
         "runtime": {
           "Inventory.Repositories.dll": {}
+        }
+      },
+      "Inventory.ViewModel/1.0.0": {
+        "dependencies": {
+          "Inventory.Models": "1.0.0"
+        },
+        "runtime": {
+          "Inventory.ViewModel.dll": {}
         }
       }
     }
@@ -627,6 +636,11 @@
       "sha512": ""
     },
     "Inventory.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inventory.ViewModel/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

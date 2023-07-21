@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "zAGzacQK+9HtcZmFzAeIQuGOHFa/EnDf64OfEQD768roaWVZyzyWiuA7LHBsXqMN8COj7EddysC3FdapFSCfqw==",
-  "success": false,
+  "dgSpecHash": "S4J64juNKZSnA8/z0t+0lfvvOfsZlPcAxfFOVgmipQIXqnNV5++JSIXxBKrxe2qIxQfeXIsu+dD3rIbXbECmVA==",
+  "success": true,
   "projectFilePath": "D:\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JIHAD\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.20\\microsoft.aspnetcore.cryptography.internal.6.0.20.nupkg.sha512",
@@ -26,15 +26,5 @@
     "C:\\Users\\JIHAD\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "C:\\Users\\JIHAD\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }
