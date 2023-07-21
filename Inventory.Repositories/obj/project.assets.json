@@ -833,6 +833,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj",
       "Inventory.Models >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.20"
     ]
@@ -866,6 +867,9 @@
           "projectReferences": {
             "D:\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
               "projectPath": "D:\\Inventory\\Inventory.Models\\Inventory.Models.csproj"
+            },
+            "D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj": {
+              "projectPath": "D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj"
             }
           }
         }
@@ -904,5 +908,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

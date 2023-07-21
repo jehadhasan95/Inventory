@@ -91,6 +91,9 @@
             "projectReferences": {
               "D:\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
                 "projectPath": "D:\\Inventory\\Inventory.Models\\Inventory.Models.csproj"
+              },
+              "D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj": {
+                "projectPath": "D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj"
               }
             }
           }

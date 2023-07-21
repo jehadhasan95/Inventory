@@ -10,3 +10,18 @@ D:\Inventory Backup\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.
 D:\Inventory Backup\Inventory\Inventory.Repositories\obj\Debug\net6.0\refint\Inventory.Repositories.dll
 D:\Inventory Backup\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.pdb
 D:\Inventory Backup\Inventory\Inventory.Repositories\obj\Debug\net6.0\ref\Inventory.Repositories.dll
+D:\Projects\Inventory1\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.csproj.AssemblyReference.cache
+D:\Projects\Inventory1\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Inventory1\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.AssemblyInfoInputs.cache
+D:\Projects\Inventory1\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.AssemblyInfo.cs
+D:\Projects\Inventory1\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.csproj.CoreCompileInputs.cache
+D:\Projects\Inventory1\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.dll
+D:\Projects\Inventory1\Inventory\Inventory.Repositories\obj\Debug\net6.0\refint\Inventory.Repositories.dll
+D:\Projects\Inventory1\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.pdb
+D:\Projects\Inventory1\Inventory\Inventory.Repositories\bin\Debug\net6.0\Inventory.Repositories.deps.json
+D:\Projects\Inventory1\Inventory\Inventory.Repositories\bin\Debug\net6.0\Inventory.Repositories.dll
+D:\Projects\Inventory1\Inventory\Inventory.Repositories\bin\Debug\net6.0\Inventory.Repositories.pdb
+D:\Projects\Inventory1\Inventory\Inventory.Repositories\bin\Debug\net6.0\Inventory.Models.dll
+D:\Projects\Inventory1\Inventory\Inventory.Repositories\bin\Debug\net6.0\Inventory.Models.pdb
+D:\Projects\Inventory1\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.csproj.CopyComplete
+D:\Projects\Inventory1\Inventory\Inventory.Repositories\obj\Debug\net6.0\ref\Inventory.Repositories.dll
