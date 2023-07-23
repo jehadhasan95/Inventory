@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj": {}
+    "D:\\Project\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj": {}
   },
   "projects": {
-    "D:\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
+    "D:\\Project\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Inventory\\Inventory.Models\\Inventory.Models.csproj",
+        "projectUniqueName": "D:\\Project\\Inventory\\Inventory.Models\\Inventory.Models.csproj",
         "projectName": "Inventory.Models",
-        "projectPath": "D:\\Inventory\\Inventory.Models\\Inventory.Models.csproj",
-        "packagesPath": "C:\\Users\\JIHAD\\.nuget\\packages\\",
-        "outputPath": "D:\\Inventory\\Inventory.Models\\obj\\",
+        "projectPath": "D:\\Project\\Inventory\\Inventory.Models\\Inventory.Models.csproj",
+        "packagesPath": "C:\\Users\\Fast Sign (Sukumar)\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\Inventory\\Inventory.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JIHAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fast Sign (Sukumar)\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,17 +65,17 @@
         }
       }
     },
-    "D:\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj": {
+    "D:\\Project\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj",
+        "projectUniqueName": "D:\\Project\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj",
         "projectName": "Inventory.Repositories",
-        "projectPath": "D:\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj",
-        "packagesPath": "C:\\Users\\JIHAD\\.nuget\\packages\\",
-        "outputPath": "D:\\Inventory\\Inventory.Repositories\\obj\\",
+        "projectPath": "D:\\Project\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Fast Sign (Sukumar)\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\Inventory\\Inventory.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JIHAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fast Sign (Sukumar)\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,11 +89,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
-                "projectPath": "D:\\Inventory\\Inventory.Models\\Inventory.Models.csproj"
+              "D:\\Project\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
+                "projectPath": "D:\\Project\\Inventory\\Inventory.Models\\Inventory.Models.csproj"
               },
-              "D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj": {
-                "projectPath": "D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj"
+              "D:\\Project\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj": {
+                "projectPath": "D:\\Project\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj"
               }
             }
           }
@@ -133,17 +133,17 @@
         }
       }
     },
-    "D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj": {
+    "D:\\Project\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj",
+        "projectUniqueName": "D:\\Project\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj",
         "projectName": "Inventory.ViewModel",
-        "projectPath": "D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj",
-        "packagesPath": "C:\\Users\\JIHAD\\.nuget\\packages\\",
-        "outputPath": "D:\\Inventory\\Inventory.ViewModel\\obj\\",
+        "projectPath": "D:\\Project\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\Fast Sign (Sukumar)\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\Inventory\\Inventory.ViewModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JIHAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fast Sign (Sukumar)\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -157,8 +157,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
-                "projectPath": "D:\\Inventory\\Inventory.Models\\Inventory.Models.csproj"
+              "D:\\Project\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
+                "projectPath": "D:\\Project\\Inventory\\Inventory.Models\\Inventory.Models.csproj"
               }
             }
           }

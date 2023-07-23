@@ -42,3 +42,11 @@ D:\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.dll
 D:\Inventory\Inventory.Repositories\obj\Debug\net6.0\refint\Inventory.Repositories.dll
 D:\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.pdb
 D:\Inventory\Inventory.Repositories\obj\Debug\net6.0\ref\Inventory.Repositories.dll
+D:\Project\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.csproj.AssemblyReference.cache
+D:\Project\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.AssemblyInfoInputs.cache
+D:\Project\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.AssemblyInfo.cs
+D:\Project\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.csproj.CoreCompileInputs.cache
+D:\Project\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.dll
+D:\Project\Inventory\Inventory.Repositories\obj\Debug\net6.0\refint\Inventory.Repositories.dll
+D:\Project\Inventory\Inventory.Repositories\obj\Debug\net6.0\Inventory.Repositories.pdb

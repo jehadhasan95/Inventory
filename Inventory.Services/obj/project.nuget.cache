@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9WOSc9VxPUnWS1H6mvkOO9MQTbpX11XrX8R1Ke14sOBLS6xU8F3Bcp0Cz0HsTshlOEu/ceGSVHsmO097x1ExrA==",
+  "dgSpecHash": "knK/xGNn/0h5PpfuslNBTSAWDTcE7UvSMhiUjaGC9rmrCVOG9gjb3be84f34LlQUj+IKV6OGnFrbNugmQaV3Kg==",
   "success": true,
-  "projectFilePath": "D:\\Inventory\\Inventory.Services\\Inventory.Services.csproj",
+  "projectFilePath": "D:\\Project\\Inventory\\Inventory.Services\\Inventory.Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
