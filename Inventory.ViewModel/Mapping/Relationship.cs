@@ -1,6 +1,7 @@
 ﻿using Inventory.Models;
 using Inventory.ViewModel.Bill;
 using Inventory.ViewModel.Customer;
+using Inventory.ViewModel.Product;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,53 +14,32 @@ namespace Inventory.ViewModel.Mapping
     {
         public static IEnumerable<CustomerTypeListViewModel> 
             ModelToVM(this IEnumerable<CustomerType> customerType)
+        
+            
+          public static IEnumerable<CustomerListViewModel>
+             ModelToVM(this IEnumerable<Inventory.Models.Customer> customers)
+            
+
+
+
+        public static IEnumerable<ProductTypeListViewModel>
+            ModelToVM(this IEnumerable<Inventory.ProductType> producType)
         {
-            List<CustomerTypeListViewModel> list = new List<CustomerTypeListViewModel>();
-
-            foreach (var item in customerType)
+            List<ProductTypeListViewModel> list = new List<ProductTypeListViewModel>();
+            foreach (var item in producType)
             {
-                list.Add(new CustomerTypeListViewModel { 
-                CustomerTypeId = item.CustomerTypeId,
-                CustomerTypeName = item.CustomerTypeName,
-                Description = item.Description
-                });
-            }
-            return list;
-        }
-
-
-        public static IEnumerable<CustomerListViewModel>
-            ModelToVM(this IEnumerable<Inventory.Models.Customer> customers)
-        {
-            List<CustomerListViewModel> list = new List<CustomerListViewModel>();
-
-            foreach (var item in customers)
-            {
-                list.Add(new CustomerListViewModel
+                list.Add(new ProductTypeListViewModel()
                 {
-                    CustomerTypeId = item.CustomerTypeId,
-                    CustomerTypeName = item.CustomerTypeName,
-                    Description = item.Description
+                    ProductTypeID=ct.ProductTypeId,
+                    ProductTypeName=ct.ProductTypeName,
+                    Description=ct.Description,
+
+
                 });
             }
             return list;
         }
 
-        public static IEnumerable<BillTypeListViewModel>
-            ModelToVM(this IEnumerable<Inventory.Models.BillType> billType)
-        {
-            List<BillTypeListViewModel> list = new List<BillTypeListViewModel>();
-            foreach (var item in billType)
-            {
-                list.Add(new BillTypeListViewModel()
-                {
-                    BillTypeId=ct.BillTypeId,
-                    BillTypeName=ct.BIllTypeName,
-                    Description=ct.Description
-                });
-            }
-            return list;
-        }
 
 
 

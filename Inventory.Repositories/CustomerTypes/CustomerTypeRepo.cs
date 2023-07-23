@@ -12,6 +12,7 @@ namespace Inventory.Repositories.CustomerTypes
     public class CustomerTypeRepo : ICustomerTypeRepo
     {
         private ApplicationDbContext _context;
+
         public CustomerTypeRepo(ApplicationDbContext context)
         {
             _context = context;
@@ -19,8 +20,8 @@ namespace Inventory.Repositories.CustomerTypes
         public async Task<PaginatedList<CustomerTypeListViewModel>> GetAll(int pageSize, int PageNumber)
         {
             var customerTypeList = _context.CustomerTypes;
-                      var vm = customerTypeList.ModelToVM().AsQueryable();
-            return await PaginatedList<CustomerTypeListViewModel>.CreateAsync(vm, pageNumber, pageSize);
+                      var vm= customerTypeList.ModelToVM().AsQueryable();
+            return await PaginatedList<CustomerTypeListViewModel>.CreateAsync(vm, PageNumber, pageSize);
 
         }
     }
