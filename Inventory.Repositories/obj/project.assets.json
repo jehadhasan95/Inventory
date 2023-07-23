@@ -374,6 +374,19 @@
         "runtime": {
           "bin/placeholder/Inventory.Models.dll": {}
         }
+      },
+      "Inventory.ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Inventory.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Inventory.ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Inventory.ViewModel.dll": {}
+        }
       }
     }
   },
@@ -829,28 +842,34 @@
       "type": "project",
       "path": "../Inventory.Models/Inventory.Models.csproj",
       "msbuildProject": "../Inventory.Models/Inventory.Models.csproj"
+    },
+    "Inventory.ViewModel/1.0.0": {
+      "type": "project",
+      "path": "../Inventory.ViewModel/Inventory.ViewModel.csproj",
+      "msbuildProject": "../Inventory.ViewModel/Inventory.ViewModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Inventory.Models >= 1.0.0",
+      "Inventory.ViewModel >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.20"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Elite-Gadget\\.nuget\\packages\\": {}
+    "C:\\Users\\JIHAD\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj",
+      "projectUniqueName": "D:\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj",
       "projectName": "Inventory.Repositories",
-      "projectPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj",
-      "packagesPath": "C:\\Users\\Elite-Gadget\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Repositories\\obj\\",
+      "projectPath": "D:\\Inventory\\Inventory.Repositories\\Inventory.Repositories.csproj",
+      "packagesPath": "C:\\Users\\JIHAD\\.nuget\\packages\\",
+      "outputPath": "D:\\Inventory\\Inventory.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Elite-Gadget\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JIHAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -864,8 +883,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projects\\Inventory1\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
-              "projectPath": "D:\\Projects\\Inventory1\\Inventory\\Inventory.Models\\Inventory.Models.csproj"
+            "D:\\Inventory\\Inventory.Models\\Inventory.Models.csproj": {
+              "projectPath": "D:\\Inventory\\Inventory.Models\\Inventory.Models.csproj"
+            },
+            "D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj": {
+              "projectPath": "D:\\Inventory\\Inventory.ViewModel\\Inventory.ViewModel.csproj"
             }
           }
         }
@@ -896,20 +918,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.20, 6.0.20]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.20, 6.0.20]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.20, 6.0.20]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

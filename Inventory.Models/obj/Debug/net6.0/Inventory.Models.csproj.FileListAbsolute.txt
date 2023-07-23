@@ -10,3 +10,27 @@ D:\Inventory Backup\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models
 D:\Inventory Backup\Inventory\Inventory.Models\obj\Debug\net6.0\refint\Inventory.Models.dll
 D:\Inventory Backup\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.pdb
 D:\Inventory Backup\Inventory\Inventory.Models\obj\Debug\net6.0\ref\Inventory.Models.dll
+D:\Projects\Inventory1\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.csproj.AssemblyReference.cache
+D:\Projects\Inventory1\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Inventory1\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.AssemblyInfoInputs.cache
+D:\Projects\Inventory1\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.AssemblyInfo.cs
+D:\Projects\Inventory1\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.csproj.CoreCompileInputs.cache
+D:\Projects\Inventory1\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.dll
+D:\Projects\Inventory1\Inventory\Inventory.Models\obj\Debug\net6.0\refint\Inventory.Models.dll
+D:\Projects\Inventory1\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.pdb
+D:\Projects\Inventory1\Inventory\Inventory.Models\bin\Debug\net6.0\Inventory.Models.deps.json
+D:\Projects\Inventory1\Inventory\Inventory.Models\bin\Debug\net6.0\Inventory.Models.dll
+D:\Projects\Inventory1\Inventory\Inventory.Models\bin\Debug\net6.0\Inventory.Models.pdb
+D:\Projects\Inventory1\Inventory\Inventory.Models\obj\Debug\net6.0\ref\Inventory.Models.dll
+D:\Inventory\Inventory.Models\bin\Debug\net6.0\Inventory.Models.deps.json
+D:\Inventory\Inventory.Models\bin\Debug\net6.0\Inventory.Models.dll
+D:\Inventory\Inventory.Models\bin\Debug\net6.0\Inventory.Models.pdb
+D:\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.csproj.AssemblyReference.cache
+D:\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.AssemblyInfoInputs.cache
+D:\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.AssemblyInfo.cs
+D:\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.csproj.CoreCompileInputs.cache
+D:\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.dll
+D:\Inventory\Inventory.Models\obj\Debug\net6.0\refint\Inventory.Models.dll
+D:\Inventory\Inventory.Models\obj\Debug\net6.0\Inventory.Models.pdb
+D:\Inventory\Inventory.Models\obj\Debug\net6.0\ref\Inventory.Models.dll
